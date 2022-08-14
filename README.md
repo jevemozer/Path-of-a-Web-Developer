@@ -11,18 +11,17 @@
 	<img height="160px" src="https://user-images.githubusercontent.com/98053054/151735995-72fd203d-3849-4f6c-a50f-985e2bf12d30.png" />
 </div>
 
-
 <h1 align="center">
-  Origamid Courses
+  
 </h1>
 
-This is my course learning path. To check the certificates just click 🎓
+👨🏻‍💻 This is my course learning path. To check the certificates just click > 🎓
 
 <br>
 
 <!-- Para adicionar o certificado no final de cada curso concluído <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>  e adicionar o white_check_mark para finalizado e o o white_square_button para cursos em andamento-->
 
-<p>:white_square_button: HTML e CSS Iniciantes :hourglass:</p> <!-- <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a> -->
+<p>:white_square_button: HTML e CSS Iniciantes (<a href="https://github.com/jevemozer/Path-of-a-Web-Developer/tree/main/HTML%20e%20CSS%20Iniciante">projects</a>) :hourglass:</p> <!-- <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a> -->
 <p>:white_large_square: UI Design Iniciantes</p>
 <p>:white_large_square: CSS Flexbox></p>
 <p>:white_large_square: CSS Grid Layout></p>
