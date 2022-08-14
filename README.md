@@ -8,7 +8,7 @@
 
 <!-- Para adicionar o certificado no final de cada curso concluído <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🏆</a>  e adicionar o white_check_mark para finalizado e o o white_square_button para cursos em andamento-->
 
-<p>:white_square_button: HTML e CSS Iniciantes :hourglass:</p><!--<a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🏆</a> -->
+<p>:white_square_button: HTML e CSS Iniciantes :hourglass:</p> <!-- <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🏆</a> -->
 <p>:white_large_square: UI Design Iniciantes</p>
 <p>:white_large_square: CSS Flexbox></p>
 <p>:white_large_square: CSS Grid Layout></p>
