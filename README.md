@@ -3,3 +3,5 @@
 Trajetória de projetos durante meu aprendizado!
 
 Repositório criado para o curso GIT E GITHUB!
+
+:)
