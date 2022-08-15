@@ -20,8 +20,19 @@ h3 {
   margin: 0px;
 }
 
+.header {
+  display: grid;
+  justify-items: center;
+  gap: 3.75rem;
+}
+
 a {
   text-decoration: none;
+}
+
+.menu a {
+  text-decoration: none;
+  display: block;
 }
 
 p {
@@ -29,7 +40,7 @@ p {
   line-height: 1.3rem;
 }
 
-nav {
+ul{
   list-style: none;
   display: flex;
   margin: 0px;
@@ -52,12 +63,12 @@ body nav ul li:hover {
 
 }
 
-main {
+article {
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width: 1000px;
 }
-article {
+article div{
   background: #ffffff;
   padding: 2.5rem;
   text-align: right;
@@ -68,7 +79,7 @@ article {
   justify-items: end;
 }
 
-article::after {
+article div::after {
   content: "";
   display: block;
   width: 3.75rem;
@@ -127,6 +138,7 @@ section .vantagens-item:hover {
 .vantagens-item p {
   grid-column: 2;
 }
+
 footer {
   background: #fff;
   width: 100%;
