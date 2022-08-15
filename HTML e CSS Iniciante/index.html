@@ -12,35 +12,40 @@
 <body>
   <img class="titulo" src="/HTML e CSS Iniciante/img/bikcraft.svg" alt="Bikcraft">
 
-  <nav aria-label="primaria">
-    <ul>
-      <li><a href="/">Sobre</a></li>
-    </ul>
-    <ul>
-      <li><a href="/">produtos</a></li>
-    </ul>
-    <ul>
-      <li><a href="/">lojas</a></li>
-    </ul>
-    <ul>
-      <li><a href="/">contatos</a></li>
-    </ul>
-  </nav>
+  <header>
+    <nav aria-label="menu">
+      <ul>
+        <li><a href="/">Sobre</a></li>
+      </ul>
+      <ul>
+        <li><a href="/">produtos</a></li>
+      </ul>
+      <ul>
+        <li><a href="/">lojas</a></li>
+      </ul>
+      <ul>
+        <li><a href="/">contatos</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  <div class="conteudo">
+  <main>
 
-    <article class="introducao">
-      <span class="detalhe"></span>
+    <article aria-label="Bicicletas Feitas a Mão">
       <h1>Bicicletas Feitas a Mão</h1>
       <p>A Nimbus Stark é a melhor Bikcraft já criada pela nossa equipe. Ela vem equipada com os melhores acessórios da marca.</p>
       <a class="botao" href="/">VER MAIS</a>
     </article>
 
+  
     <img class="foto" src="/HTML e CSS Iniciante/img/bicicleta.jpg" alt="Bicicleta Bikcraft Preta">
 
-    <h2 class="subtitulo">Vantagens Bikcraft</h2>
+   
+    <h2>Vantagens Bikcraft</h2>
+    
+  
 
-    <div class="vantagens">
+    <section aria-label="vantagens">
       <div class="vantagens-item">
         <img src="/HTML e CSS Iniciante/img/eletrica.svg" alt="">
         <h3>Motor Elétrico</h3>
@@ -56,12 +61,15 @@
         <h3>Rastreador</h3>
         <p>Rastreador e sistema anti-furto para garantir o seu sossego.</p>
       </div>
-    </div>
-    <div class="rodape">
 
-    </div>
-  </div>
-  <p>Bikcraft. Alguns direitos reservados.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Bikcraft. Alguns direitos reservados.</p>
+  </footer>
+
 </body>
 
 </html>
