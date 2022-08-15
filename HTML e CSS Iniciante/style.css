@@ -87,7 +87,7 @@ article::after {
   text-transform: uppercase;
 }
 .botao:hover {
-  border: 4px solid #900;
+  background:  #900;
 }
 
 h2 {
@@ -118,6 +118,10 @@ section .vantagens-item {
 }
 section .vantagens-item:nth-child(odd) {
 background: #f7f7f7;
+}
+
+section .vantagens-item:hover {
+  border-left: 0.3rem solid red;
 }
 
 .vantagens-item p {
