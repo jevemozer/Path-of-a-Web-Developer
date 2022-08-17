@@ -21,7 +21,7 @@
 
 <!-- Para adicionar o certificado no final de cada curso concluído <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>  e adicionar o white_check_mark para finalizado e o o white_square_button para cursos em andamento-->
 
-- [ ] HTML e CSS Iniciantes (<a href="https://jevemozer.github.io/project-bikcraft/">Project01</a>), (<a href="https://jevemozer.github.io/project-portfolio/">Project02</a>) <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>:hourglass: </p>
+- [ ] HTML e CSS Iniciantes (<a href="https://jevemozer.github.io/project-bikcraft/">Bikcraft</a>), (<a href="https://jevemozer.github.io/project-portfolio/">Lobo-Portfolio</a>) <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>:hourglass: </p>
 - [ ] UI Design Iniciantes</p>
 - [ ] CSS Flexbox></p>
 - [ ] CSS Grid Layout></p>
