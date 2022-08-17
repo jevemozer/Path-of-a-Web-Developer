@@ -1,6 +1,6 @@
 # Path-of-a-Web-Developer
 
-<h3 align="center">🐺 Projects Made in Course! 🐺</h3>
+<h3 align="center">🐺 Courses de Web Design, UX/UI Design, HTML, CSS, JavaScript e React! 🐺</h3>
 <p align="center">
 	<a href="https://www.origamid.com/">
 		Origamid Website 
