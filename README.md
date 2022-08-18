@@ -15,13 +15,11 @@
   
 </h1>
 
-👨🏻‍💻 This is my course learning path. To check the certificates just click > 🎓
+👨🏻‍💻 This is my course learning path.
 
 <br>
 
-<!-- Para adicionar o certificado no final de cada curso concluído <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>  e adicionar o white_check_mark para finalizado e o o white_square_button para cursos em andamento-->
-
-- [ ] HTML e CSS Iniciantes (<a href="https://jevemozer.github.io/project-bikcraft/">Bikcraft</a>), (<a href="https://jevemozer.github.io/project-portfolio/">Lobo-Portfolio</a>) <a target="_blank" href="https://www.origamid.com/certificate//"  title="Certificate">🎓</a>:hourglass: </p>
+- [ ] HTML e CSS Iniciantes (<a href="https://jevemozer.github.io/bikcraft/">Bikcraft</a>), (<a href="https://jevemozer.github.io/project-portfolio/">Lobo-Portfolio</a>)>:hourglass:</p>
 - [ ] UI Design Iniciantes</p>
 - [ ] CSS Flexbox></p>
 - [ ] CSS Grid Layout></p>
